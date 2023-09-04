@@ -1,0 +1,6 @@
+{{#user}}
+Name: Bhaumik
+Skills: HTML, CSS, JS, Python, Django, MySQL, GitHub
+Email: bhoumikpagdhare2002@gmail.com
+{{/user}}
+
